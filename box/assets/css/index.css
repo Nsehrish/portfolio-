@@ -1,0 +1,383 @@
+
+
+h1 {
+  color: white;
+  bottom: 150px;
+  top: 200px;
+  align-self: center;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 20px;
+
+}
+
+body {
+  margin: 0;
+}
+
+.type1{
+  position: relative;
+  top: 348px;
+  right: 586px;
+  width:292px;
+  height: 90px;
+  display: flex;
+}
+
+}
+
+
+.tx{
+  height: 123px;
+  width: 263px;
+  top: 28px;
+  background-color: rgba(93, 85, 85, 0.5);
+  position: relative;
+  float: left;
+  padding: 42px;
+  margin: 86px;
+  align-items: center;
+
+}
+h2 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: 500;
+  align-self: center;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 119px;
+  color: #ffffff8c;
+}
+
+h3 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: 500;
+  top:-101px;
+  height: 170px;
+  position: relative;
+  align-self: center;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 46px;
+  color: #ffffff8c;
+}
+
+h5 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: 500;
+  align-self: center;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 36px
+}
+
+.box {
+  background-color: rgba(50,50,50,0.1);
+  justify-content: center;
+  top: 0px
+  height: 150px;
+  width: 150px;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  z-index: 0;
+  margin: 5px;
+  padding-left:
+
+}
+
+
+.icon{
+  height: 50px;
+  width: 50px;
+  top:50px;
+  float: right;
+  vertical-align: middle;
+}
+
+.icon1{
+  height: 50px;
+  width: 50px;
+  top:50px;
+  float: left;
+  vertical-align: middle;
+
+}
+
+.text_om{
+  text-align: center;
+  color: white;
+font-family: 'Jura', sans-serif;
+}
+
+.link_box_container {
+  top: 0px;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: 50px;
+
+  margin: 0px;
+  z-index: 0;
+}
+
+.image{
+  align-items: center;
+  position: relative;
+  height: 109px;
+  width: 163px;
+vertical-align: middle;
+  padding: 41px;
+  margin:80px;
+  justify-content: center;
+  top:-77px;
+  float: left;
+}
+
+.link_box {
+  position: relative;
+  width: 289px;
+  height: 50px;
+  background-color: rgba(93, 85, 85, 0.5);
+  margin: 5px;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.button{
+  height: 60px;
+  width:171px;
+  top:129px;
+  padding: -1px;
+  margin:auto
+
+}
+
+.link_box2{
+  position: relative;
+  top: 200px;
+  width: 289px;
+  height: 180px;
+  background-color: rgba(50,50,50,0.3);
+  margin: 5px;
+  float: left;
+}
+
+.link_box3{
+  position: relative;
+  top: 200px;
+  width: 289px;
+  height: 180px;
+  background-color: rgba(50,50,50,0.3);
+  margin: 5px;
+  float: left;
+}
+
+
+
+.front_page_container {
+  height: 800px;
+  width: 100%;
+  background-image: url("../images/DSC_0168.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
+
+
+
+.birds {
+  height: 800px;
+  width: 100%;
+  background-image: url("../images/read.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
+
+
+.back22 {
+  height: 800px;
+  width: 100%;
+  background-image: url("../images/banner.jpeg");
+  background-size: cover;
+  background-repeat: repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
+
+.frikant{
+height: 407px;
+width: 525px;
+top: 226px;
+border: 10;
+background-color: #988a97a1;
+position: relative;
+
+}
+
+.rose {
+  height: 900px;
+  width: 100%;
+  background-image: url("../images/magazin.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 0px
+
+}
+
+.front_page_container5 {
+  height: 908px;
+  width: 100%;
+  background-image: url("../images/backimage.jpg");
+  background-size: 400px;
+  background-repeat: repeat;
+  display: flex;
+  flex-direction: column;
+  padding: 0px
+
+
+}
+
+.menu{
+  height: 25px;
+  width:38px;
+  font-family: sans-serif;
+  flex-direction: column;
+  display: fixed;
+
+}
+
+.image_line1 {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: 500px;
+  top:300px;
+  background-color: rgba(50, 50, 50, 0.5);
+  margin: 0px;
+  z-index: 0;
+}
+
+.image_box {
+  position: relative;
+  top: 214px;
+  width: 1136px;
+  height: 325px;
+  background-color: rgba(50, 50, 50, 0.3);
+  margin: 5px;
+}
+
+.image_box3 {
+  position: relative;
+  top: 200px;
+  width: 1700px;
+  height: 334px;
+  background-color: rgba(50, 50, 50, 0.3);
+  margin: 5px;
+  vertical-align: middle;
+}
+
+
+.image_box2 {
+  position: relative;
+  flex-direction: row;
+  top: 150px;
+  width: 300px;
+  height: 100px;
+  background-color: rgba(50, 50, 50, 0.3);
+  margin: 7px;
+}
+
+.image_left {
+  position: relative;
+  top: 145px;
+  right: 28px;
+  width: 720px;
+  height: 494px;
+  background-color: rgba(93, 85, 85, 0.81);
+  };
+
+
+
+
+
+.footer{
+  position: relative;
+  top: 200px;
+  width: 289px;
+  height: 180px;
+  float: right;
+  margin: : 5px;
+  float:left;
+  display: inline;
+
+}
+
+
+  .image2_right {
+  position: relative;
+  top: -72px;
+  right: 51px;
+  width:300px;
+  height: 90px;
+};
+
+.image_line1 {
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  height: 100%;
+  top:100%;
+  background-color: rgba(50, 50, 50, 0.1);
+  margin: 0px;
+  z-index: 0;
+};
+
+/*iphone 6*/
+  @media screen and (max-width: 375px)
+
+.whitebox {
+  position: relative;
+  top: 200px;
+  width: 170px;
+  height: 334px;
+  background-color: blue;
+  margin: 5px;
+  vertical-align: middle;
+}
+
+/*ipad pro*/
+  @media screen and (max-width: 1024px)
+
+/*iphone 6*/
+  @media screen and (max-width: 375px)
+
+
+};
+  background-color: rgba(50, 50, 50, 0.3);
+  margin: 5px;
+}
+
+/*nexus 6p*/
+  @media screen and (max-width: 960px)
